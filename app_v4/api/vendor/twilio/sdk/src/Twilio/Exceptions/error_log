@@ -1,0 +1,48 @@
+[14-Jul-2023 11:18:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Exceptions\TwilioException' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/TwimlException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/TwimlException.php on line 7
+[14-Jul-2023 11:19:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Exceptions\TwilioException' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/RestException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/RestException.php on line 7
+[14-Jul-2023 11:19:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Exceptions\TwilioException' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/HttpException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/HttpException.php on line 7
+[14-Jul-2023 11:19:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Exceptions\TwilioException' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/EnvironmentException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/EnvironmentException.php on line 7
+[14-Jul-2023 11:19:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Exceptions\TwilioException' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/DeserializeException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/DeserializeException.php on line 7
+[14-Jul-2023 11:20:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Exceptions\TwilioException' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/ConfigurationException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/ConfigurationException.php on line 7
+[14-Jul-2023 12:08:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Exceptions\TwilioException' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/TwimlException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/TwimlException.php on line 7
+[14-Jul-2023 12:08:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Exceptions\TwilioException' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/RestException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/RestException.php on line 7
+[14-Jul-2023 12:08:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Exceptions\TwilioException' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/HttpException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/HttpException.php on line 7
+[14-Jul-2023 12:09:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Exceptions\TwilioException' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/EnvironmentException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/EnvironmentException.php on line 7
+[14-Jul-2023 12:09:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Exceptions\TwilioException' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/DeserializeException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/DeserializeException.php on line 7
+[14-Jul-2023 12:09:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Exceptions\TwilioException' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/ConfigurationException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Exceptions/ConfigurationException.php on line 7

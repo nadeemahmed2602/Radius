@@ -1,0 +1,16 @@
+[14-Jul-2023 11:17:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twilio\Http\Client' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Http/GuzzleClient.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Http/GuzzleClient.php on line 12
+[14-Jul-2023 11:17:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twilio\Http\Client' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Http/CurlClient.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Http/CurlClient.php on line 9
+[14-Jul-2023 12:08:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twilio\Http\Client' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Http/GuzzleClient.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Http/GuzzleClient.php on line 12
+[14-Jul-2023 12:08:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twilio\Http\Client' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Http/CurlClient.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Http/CurlClient.php on line 9

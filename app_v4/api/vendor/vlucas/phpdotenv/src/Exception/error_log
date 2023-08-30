@@ -1,0 +1,32 @@
+[14-Jul-2023 10:29:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Dotenv\Exception\ExceptionInterface' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 10
+[14-Jul-2023 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Dotenv\Exception\ExceptionInterface' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 10
+[14-Jul-2023 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Dotenv\Exception\ExceptionInterface' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/InvalidCallbackException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/InvalidCallbackException.php on line 10
+[14-Jul-2023 10:35:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Dotenv\Exception\ExceptionInterface' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 10
+[14-Jul-2023 11:33:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Dotenv\Exception\ExceptionInterface' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/InvalidCallbackException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/InvalidCallbackException.php on line 10
+[14-Jul-2023 11:33:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Dotenv\Exception\ExceptionInterface' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 10
+[14-Jul-2023 11:33:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Dotenv\Exception\ExceptionInterface' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 10
+[14-Jul-2023 11:33:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Dotenv\Exception\ExceptionInterface' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 10

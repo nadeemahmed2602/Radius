@@ -1,0 +1,40 @@
+[14-Jul-2023 11:42:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twilio\Jwt\Grants\Grant' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/ChatGrant.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/ChatGrant.php on line 7
+[14-Jul-2023 11:42:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twilio\Jwt\Grants\Grant' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/SyncGrant.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/SyncGrant.php on line 5
+[14-Jul-2023 11:43:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twilio\Jwt\Grants\Grant' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/TaskRouterGrant.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/TaskRouterGrant.php on line 5
+[14-Jul-2023 11:43:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twilio\Jwt\Grants\Grant' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/VideoGrant.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/VideoGrant.php on line 7
+[14-Jul-2023 11:43:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twilio\Jwt\Grants\Grant' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/VoiceGrant.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/VoiceGrant.php on line 7
+[14-Jul-2023 12:38:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twilio\Jwt\Grants\Grant' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/ChatGrant.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/ChatGrant.php on line 7
+[14-Jul-2023 12:38:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twilio\Jwt\Grants\Grant' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/SyncGrant.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/SyncGrant.php on line 5
+[14-Jul-2023 12:38:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twilio\Jwt\Grants\Grant' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/TaskRouterGrant.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/TaskRouterGrant.php on line 5
+[14-Jul-2023 12:38:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twilio\Jwt\Grants\Grant' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/VideoGrant.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/VideoGrant.php on line 7
+[14-Jul-2023 12:38:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twilio\Jwt\Grants\Grant' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/VoiceGrant.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Jwt/Grants/VoiceGrant.php on line 7

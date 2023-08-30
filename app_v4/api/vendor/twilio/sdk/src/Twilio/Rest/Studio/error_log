@@ -1,0 +1,16 @@
+[14-Jul-2023 11:56:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Version' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Rest/Studio/V1.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Rest/Studio/V1.php on line 21
+[14-Jul-2023 11:57:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Version' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Rest/Studio/V2.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Rest/Studio/V2.php on line 23
+[14-Jul-2023 12:40:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Version' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Rest/Studio/V1.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Rest/Studio/V1.php on line 21
+[14-Jul-2023 12:40:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Twilio\Version' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Rest/Studio/V2.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/vendor/twilio/sdk/src/Twilio/Rest/Studio/V2.php on line 23

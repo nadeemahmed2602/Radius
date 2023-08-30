@@ -1,0 +1,146 @@
+[05-Jul-2023 04:08:25 UTC] PHP Warning:  A non-numeric value encountered in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 35
+[05-Jul-2023 04:08:25 UTC] PHP Warning:  A non-numeric value encountered in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 35
+[05-Jul-2023 04:08:25 UTC] PHP Warning:  A non-numeric value encountered in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 35
+[05-Jul-2023 04:08:25 UTC] PHP Warning:  A non-numeric value encountered in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 35
+[05-Jul-2023 04:08:25 UTC] PHP Warning:  A non-numeric value encountered in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 35
+[05-Jul-2023 04:13:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 11
+[05-Jul-2023 04:14:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 11
+[05-Jul-2023 04:15:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 14
+[05-Jul-2023 04:15:51 UTC] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 12
+[05-Jul-2023 04:15:51 UTC] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 12
+[05-Jul-2023 04:15:51 UTC] PHP Warning:  include_once(objects/wallet.php): failed to open stream: No such file or directory in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 13
+[05-Jul-2023 04:15:51 UTC] PHP Warning:  include_once(): Failed opening 'objects/wallet.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 13
+[05-Jul-2023 04:15:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 15
+[05-Jul-2023 04:16:08 UTC] PHP Warning:  include_once(./config/database.php): failed to open stream: No such file or directory in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 12
+[05-Jul-2023 04:16:08 UTC] PHP Warning:  include_once(): Failed opening './config/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 12
+[05-Jul-2023 04:16:08 UTC] PHP Warning:  include_once(./objects/wallet.php): failed to open stream: No such file or directory in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 13
+[05-Jul-2023 04:16:08 UTC] PHP Warning:  include_once(): Failed opening './objects/wallet.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 13
+[05-Jul-2023 04:16:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 15
+[05-Jul-2023 04:24:29 UTC] PHP Notice:  Trying to get property 'status' of non-object in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 48
+[05-Jul-2023 04:25:42 UTC] PHP Notice:  Trying to get property 'status' of non-object in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 49
+[05-Jul-2023 04:27:06 UTC] PHP Notice:  Trying to get property 'status' of non-object in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 50
+[05-Jul-2023 04:27:25 UTC] PHP Notice:  Array to string conversion in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/recharge.php on line 50
+[06-Jul-2023 19:16:22 UTC] PHP Notice:  Trying to get property 'operatorCode' of non-object in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/getPlanList.php on line 26
+[06-Jul-2023 19:16:22 UTC] PHP Notice:  Trying to get property 'operatorCode' of non-object in /home2/experted/public_html/coinconnect.app/app_v4/api/rechargeApis/getPlanList.php on line 29
+[13-Jul-2023 02:25:30 UTC] PHP Notice:  Trying to get property 'opcode' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 25
+[13-Jul-2023 02:25:30 UTC] PHP Notice:  Trying to get property 'number' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 26
+[13-Jul-2023 02:25:30 UTC] PHP Notice:  Trying to get property 'opcode' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 25
+[13-Jul-2023 02:25:30 UTC] PHP Notice:  Trying to get property 'number' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 26
+[13-Jul-2023 02:25:32 UTC] PHP Notice:  Trying to get property 'opcode' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 25
+[13-Jul-2023 02:25:32 UTC] PHP Notice:  Trying to get property 'number' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 26
+[13-Jul-2023 02:25:32 UTC] PHP Notice:  Trying to get property 'opcode' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 25
+[13-Jul-2023 02:25:32 UTC] PHP Notice:  Trying to get property 'number' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 26
+[14-Jul-2023 08:18:34 UTC] PHP Notice:  Trying to get property 'user_id' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 26
+[14-Jul-2023 08:18:34 UTC] PHP Notice:  Trying to get property 'amount' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 27
+[14-Jul-2023 08:18:34 UTC] PHP Notice:  Trying to get property 'number' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 28
+[14-Jul-2023 08:18:34 UTC] PHP Notice:  Trying to get property 'opcode' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 29
+[14-Jul-2023 08:18:34 UTC] PHP Notice:  Trying to get property 'user_id' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 30
+[14-Jul-2023 08:18:34 UTC] PHP Notice:  Trying to get property 'amount' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 33
+[14-Jul-2023 08:18:52 UTC] PHP Notice:  Trying to get property 'opcode' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getUtilityBillDetail.php on line 25
+[14-Jul-2023 08:18:52 UTC] PHP Notice:  Trying to get property 'number' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getUtilityBillDetail.php on line 26
+[14-Jul-2023 08:18:52 UTC] PHP Notice:  Trying to get property 'amount' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getUtilityBillDetail.php on line 27
+[14-Jul-2023 08:19:02 UTC] PHP Notice:  Trying to get property 'operatorCode' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getPlanList.php on line 26
+[14-Jul-2023 08:19:02 UTC] PHP Notice:  Trying to get property 'operatorCode' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getPlanList.php on line 29
+[14-Jul-2023 08:19:12 UTC] PHP Notice:  Trying to get property 'mobileNo' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getOperatorAndCircle.php on line 25
+[14-Jul-2023 08:19:12 UTC] PHP Notice:  Trying to get property 'mobileNo' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getOperatorAndCircle.php on line 28
+[14-Jul-2023 08:19:36 UTC] PHP Notice:  Trying to get property 'opcode' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 25
+[14-Jul-2023 08:19:36 UTC] PHP Notice:  Trying to get property 'number' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 26
+[14-Jul-2023 13:26:48 UTC] PHP Notice:  Trying to get property 'opcode' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getUtilityBillDetail.php on line 25
+[14-Jul-2023 13:26:48 UTC] PHP Notice:  Trying to get property 'number' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getUtilityBillDetail.php on line 26
+[14-Jul-2023 13:26:48 UTC] PHP Notice:  Trying to get property 'amount' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getUtilityBillDetail.php on line 27
+[19-Jul-2023 10:09:38 UTC] PHP Notice:  Undefined property: stdClass::$opcode in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 25
+[19-Jul-2023 10:11:26 UTC] PHP Notice:  Undefined property: stdClass::$opcode in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 25
+[19-Jul-2023 10:12:32 UTC] PHP Notice:  Undefined property: stdClass::$opcode in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 25
+[19-Jul-2023 10:13:10 UTC] PHP Notice:  Undefined property: stdClass::$opcode in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 25
+[19-Jul-2023 10:13:47 UTC] PHP Notice:  Undefined property: stdClass::$opcode in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchUtilityDetails.php on line 25
+[25-Jul-2023 00:59:16 Asia/Manila] PHP Notice:  Array to string conversion in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 73
+[25-Jul-2023 01:01:55 Asia/Manila] PHP Notice:  Undefined variable: ur in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 51
+[26-Jul-2023 09:47:37 UTC] PHP Notice:  Trying to get property 'opcode' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchElectricityBillDetail.php on line 25
+[26-Jul-2023 09:47:37 UTC] PHP Notice:  Trying to get property 'number' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchElectricityBillDetail.php on line 26
+[26-Jul-2023 12:06:01 UTC] PHP Notice:  Undefined property: stdClass::$opcode in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchCylinderBillDetail.php on line 25
+[26-Jul-2023 12:06:44 UTC] PHP Notice:  Undefined property: stdClass::$opcode in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/fetchCylinderBillDetail.php on line 25
+[28-Jul-2023 16:13:33 UTC] PHP Notice:  Undefined property: stdClass::$amount in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getUtilityBillDetail.php on line 27
+[28-Jul-2023 16:13:52 UTC] PHP Notice:  Undefined variable: amount in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getUtilityBillDetail.php on line 30
+[29-Jul-2023 09:19:41 UTC] PHP Warning:  include_once(./connection.php): failed to open stream: No such file or directory in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/varifyAddhar.php on line 14
+[29-Jul-2023 09:19:41 UTC] PHP Warning:  include_once(): Failed opening './connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/varifyAddhar.php on line 14
+[29-Jul-2023 09:19:41 UTC] PHP Notice:  Undefined property: stdClass::$userId in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/varifyAddhar.php on line 29
+[29-Jul-2023 09:20:02 UTC] PHP Notice:  Undefined property: stdClass::$userId in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/varifyAddhar.php on line 29
+[29-Jul-2023 12:14:40 UTC] PHP Notice:  Trying to get property 'aadharNo' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/aaddharOtp.php on line 25
+[29-Jul-2023 12:15:11 UTC] PHP Notice:  Trying to get property 'aadharNo' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/aaddharOtp.php on line 25
+[29-Jul-2023 12:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/varifyAddhar.php on line 49
+[29-Jul-2023 12:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/varifyAddhar.php on line 62
+[07-Aug-2023 02:34:20 Asia/Manila] PHP Notice:  Undefined variable: statement in /home2/experted/public_html/radiuschain.net/app_v4/api/objects/bookingRechargeHistory.php on line 51
+[07-Aug-2023 02:34:20 Asia/Manila] PHP Notice:  Trying to get property 'error' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/objects/bookingRechargeHistory.php on line 51
+[07-Aug-2023 02:34:20 Asia/Manila] PHP Fatal error:   in /home2/experted/public_html/radiuschain.net/app_v4/api/objects/bookingRechargeHistory.php on line 51
+[07-Aug-2023 02:34:42 Asia/Manila] PHP Notice:  Undefined property: PDOStatement::$error in /home2/experted/public_html/radiuschain.net/app_v4/api/objects/bookingRechargeHistory.php on line 51
+[07-Aug-2023 02:34:42 Asia/Manila] PHP Fatal error:   in /home2/experted/public_html/radiuschain.net/app_v4/api/objects/bookingRechargeHistory.php on line 51
+[07-Aug-2023 02:35:41 Asia/Manila] PHP Notice:  Undefined property: PDOStatement::$error in /home2/experted/public_html/radiuschain.net/app_v4/api/objects/bookingRechargeHistory.php on line 55
+[07-Aug-2023 02:37:44 Asia/Manila] PHP Notice:  Undefined property: PDOStatement::$error in /home2/experted/public_html/radiuschain.net/app_v4/api/objects/bookingRechargeHistory.php on line 56
+[07-Aug-2023 02:38:00 Asia/Manila] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home2/experted/public_html/radiuschain.net/app_v4/api/objects/bookingRechargeHistory.php:56
+Stack trace:
+#0 /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php(107): bookingRechargeHistory->create()
+#1 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/objects/bookingRechargeHistory.php on line 56
+[07-Aug-2023 02:42:57 Asia/Manila] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home2/experted/public_html/radiuschain.net/app_v4/api/objects/bookingRechargeHistory.php:56
+Stack trace:
+#0 /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php(107): bookingRechargeHistory->create()
+#1 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/objects/bookingRechargeHistory.php on line 56
+[07-Aug-2023 02:52:58 Asia/Manila] PHP Notice:  Array to string conversion in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 71
+[06-Aug-2023 19:05:17 UTC] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php on line 10
+[06-Aug-2023 19:05:17 UTC] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php on line 10
+[06-Aug-2023 19:05:17 UTC] PHP Warning:  include_once(config/core.php): failed to open stream: No such file or directory in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php on line 11
+[06-Aug-2023 19:05:17 UTC] PHP Warning:  include_once(): Failed opening 'config/core.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php on line 11
+[06-Aug-2023 19:05:17 UTC] PHP Warning:  include_once(objects/transaction.php): failed to open stream: No such file or directory in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php on line 12
+[06-Aug-2023 19:05:17 UTC] PHP Warning:  include_once(): Failed opening 'objects/transaction.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php on line 12
+[06-Aug-2023 19:05:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php on line 15
+[06-Aug-2023 19:06:54 UTC] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php on line 12
+[06-Aug-2023 19:06:54 UTC] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php on line 12
+[06-Aug-2023 19:06:54 UTC] PHP Warning:  include_once(config/core.php): failed to open stream: No such file or directory in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php on line 13
+[06-Aug-2023 19:06:54 UTC] PHP Warning:  include_once(): Failed opening 'config/core.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php on line 13
+[06-Aug-2023 19:06:54 UTC] PHP Warning:  include_once(objects/transaction.php): failed to open stream: No such file or directory in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php on line 14
+[06-Aug-2023 19:06:54 UTC] PHP Warning:  include_once(): Failed opening 'objects/transaction.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php on line 14
+[06-Aug-2023 19:06:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/getBookingDetails.php on line 17
+[08-Aug-2023 00:01:16 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 70
+[17-Aug-2023 18:38:56 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/upiPayment.php on line 55
+[18-Aug-2023 02:54:49 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/upiPayment.php on line 79
+[18-Aug-2023 02:56:44 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/upiPayment.php on line 79
+[18-Aug-2023 02:57:44 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/upiPayment.php on line 79
+[18-Aug-2023 02:58:47 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/upiPayment.php on line 79
+[18-Aug-2023 02:59:17 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/upiPayment.php on line 80
+[21-Aug-2023 22:15:25 Asia/Manila] PHP Notice:  Undefined index: usdt_wallet in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/upiPayment.php on line 54
+[22-Aug-2023 00:04:42 Asia/Manila] PHP Notice:  Undefined index: usdt_wallet in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 51
+[22-Aug-2023 00:06:01 Asia/Manila] PHP Notice:  Undefined index: usdt_wallet in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 51
+[25-Aug-2023 21:26:53 Asia/Manila] PHP Notice:  Trying to get property 'user_id' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 32
+[25-Aug-2023 21:26:53 Asia/Manila] PHP Notice:  Trying to get property 'amount' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 33
+[25-Aug-2023 21:26:53 Asia/Manila] PHP Notice:  Trying to get property 'number' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 34
+[25-Aug-2023 21:26:53 Asia/Manila] PHP Notice:  Trying to get property 'opcode' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 35
+[25-Aug-2023 21:26:53 Asia/Manila] PHP Notice:  Trying to get property 'amount' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 39
+[25-Aug-2023 21:27:40 Asia/Manila] PHP Notice:  Trying to get property 'user_id' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 32
+[25-Aug-2023 21:27:40 Asia/Manila] PHP Notice:  Trying to get property 'amount' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 33
+[25-Aug-2023 21:27:40 Asia/Manila] PHP Notice:  Trying to get property 'number' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 34
+[25-Aug-2023 21:27:40 Asia/Manila] PHP Notice:  Trying to get property 'opcode' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 35
+[25-Aug-2023 21:27:40 Asia/Manila] PHP Notice:  Trying to get property 'amount' of non-object in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 39
+[29-Aug-2023 18:31:40 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 73
+[29-Aug-2023 23:08:40 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home2/experted/public_html/radiuschain.net/app_v4/api/rechargeApis/recharge.php on line 73
